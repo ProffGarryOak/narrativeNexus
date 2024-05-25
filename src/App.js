@@ -104,21 +104,24 @@ function App() {
 			</div>
 
 			{/* part 2 */}
-			<div className="container text-center my-5 d-flex justify-content-center align-items-center flex-wrap">
-				<img src={img2} alt="Image 1" className="image2" />
+			<div>
+				<div className="container text-center my-5 d-flex justify-content-center align-items-center flex-wrap">
+					<img src={img2} alt="Image 1" className="image2" />
 
-				<div className="text-container">
-					<h1 className="mt-4 fontfancy">How it works?</h1>
-					<p className="lead txtstyle">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam
-						consequatur sapiente commodi voluptate, minima inventore et possimus
-						nobis maxime, beatae quos saepe quasi iusto exercitationem!
-					</p>
-					<p className="lead txtstyle">
-						Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
-						accusantium adipisci ipsam aut, assumenda tempora quo iste ratione
-						ad rerum sint corporis vel voluptatum alias?
-					</p>
+					<div className="text-container">
+						<h1 className="mt-4 fontfancy">How it works?</h1>
+						<p className="lead txtstyle">
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam
+							consequatur sapiente commodi voluptate, minima inventore et
+							possimus nobis maxime, beatae quos saepe quasi iusto
+							exercitationem!
+						</p>
+						<p className="lead txtstyle">
+							Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
+							accusantium adipisci ipsam aut, assumenda tempora quo iste ratione
+							ad rerum sint corporis vel voluptatum alias? 2
+						</p>
+					</div>
 				</div>
 			</div>
 			{/* part 3 */}
