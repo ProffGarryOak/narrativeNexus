@@ -104,7 +104,7 @@ function App() {
 			</div>
 
 			{/* part 2 */}
-			<div className="container container2 text-center my-5 d-flex justify-content-center align-items-center flex-wrap">
+			<div className="container text-center my-5 d-flex justify-content-center align-items-center flex-wrap">
 				<img src={img2} alt="Image 1" className="image2" />
 
 				<div className="text-container">
