@@ -69,12 +69,6 @@
 	border-radius: 50px;
 }
 
-.container2 {
-	height: 100vh;
-	display: flex;
-	flex-wrap: wrap;
-}
-
 .image2 {
 	width: 50%;
 	height: auto;
@@ -111,7 +105,7 @@
 }
 
 .container3 {
-	height: 100vh;
+	height: auto;
 	display: flex;
 	flex-wrap: wrap;
 }

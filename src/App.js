@@ -119,7 +119,7 @@ function App() {
 						<p className="lead txtstyle">
 							Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
 							accusantium adipisci ipsam aut, assumenda tempora quo iste ratione
-							ad rerum sint corporis vel voluptatum alias? 2
+							ad rerum sint corporis vel voluptatum alias? 21
 						</p>
 					</div>
 				</div>
