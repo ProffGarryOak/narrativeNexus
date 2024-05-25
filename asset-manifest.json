@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/narrativeNexus/static/css/main.3b5288f0.css",
+    "main.js": "/narrativeNexus/static/js/main.53fe9833.js",
+    "static/js/453.48438037.chunk.js": "/narrativeNexus/static/js/453.48438037.chunk.js",
+    "static/media/bk3.png": "/narrativeNexus/static/media/bk3.ee9737d084284eb61f2b.png",
+    "static/media/bk4.png": "/narrativeNexus/static/media/bk4.afdf661d1df5500cb3b1.png",
+    "static/media/img3.png": "/narrativeNexus/static/media/img3.c6bec304813d56a2b89d.png",
+    "static/media/bk1.png": "/narrativeNexus/static/media/bk1.fd1d7c969f51cf1b437f.png",
+    "static/media/bk2.png": "/narrativeNexus/static/media/bk2.e8529d6e9ecbb2e84b4d.png",
+    "static/media/img2.png": "/narrativeNexus/static/media/img2.98559eb97423b4dd0f01.png",
+    "static/media/logo.png": "/narrativeNexus/static/media/logo.73f128ed7b84b581a6f7.png",
+    "static/media/img1.png": "/narrativeNexus/static/media/img1.c49d1ba09b3ebac024d8.png",
+    "index.html": "/narrativeNexus/index.html",
+    "main.3b5288f0.css.map": "/narrativeNexus/static/css/main.3b5288f0.css.map",
+    "main.53fe9833.js.map": "/narrativeNexus/static/js/main.53fe9833.js.map",
+    "453.48438037.chunk.js.map": "/narrativeNexus/static/js/453.48438037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5288f0.css",
+    "static/js/main.53fe9833.js"
+  ]
+}
